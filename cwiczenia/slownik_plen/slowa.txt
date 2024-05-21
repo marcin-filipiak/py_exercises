@@ -1,0 +1,3 @@
+kot,cat
+chmura,cloud
+kwiat,flower
